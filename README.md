@@ -1,1 +1,1 @@
-ecipes-project
+recipes-project
